@@ -1,14 +1,14 @@
 {
   "name": "chatgpt",
   "version": "1.0.1",
-  "description": "desktop app for chatgpt on linux",
+  "description": "desktop app for chatgpt",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "electron-builder"
   },
-  "author": "krs",
+  "author": "https://github.com/IK-R-S/",
   "license": "MIT",
   "devDependencies": {
     "electron": "^23.1.0",
