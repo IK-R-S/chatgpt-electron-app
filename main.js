@@ -6,7 +6,7 @@ const contextMenu = require('electron-context-menu')
 function createWindow() {
 
     const win = new BrowserWindow({
-        title: 'ChatGPT Linux',
+        title: 'ChatGPT',
         width: 800,
         height: 600,
     })
