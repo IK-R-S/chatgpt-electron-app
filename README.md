@@ -1,4 +1,4 @@
-# Aplicativo desktop do ChatGPT feito pelo ChatGPT *
+# Aplicativo desktop do ChatGPT feito pelo ChatGPT* 🤖
 - **Recursos:** ElectronJS, HTML, CSS
 - **URL Base:** https://chat.openai.com/chat
 - **Tempo de produção humano & máquina:** 1 Dia
@@ -10,5 +10,17 @@ Captura de tela da explicação do próprio ChatGPT sobre a criação do app
 OBS: na versão atual do repositório não há implementação do pacote translate.js
 
 ---
+## Instalando as dependências
+1. `npm init`
+2. `npm install electron --save-dev`
+3. `npm install electron-context-menu`
+4. `npm install`
+5. `npm start` (Live Test ⚡)
 
-_* Supervisionado por um humano (IK-R-S)_
+## Criando executável nativo
+1. `Editar package.json para seu sistema operacional`
+2. `npm run build`
+
+---
+
+### * 🦾 Código Escrito por Máquina e Supervisionado por Humano 💪
