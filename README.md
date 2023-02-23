@@ -22,5 +22,8 @@ OBS: na versão atual do repositório não há implementação do pacote transla
 2. `npm run build`
 
 ---
+![image](https://user-images.githubusercontent.com/73291742/221032696-72b824d8-ad51-4afc-9329-b6e8b25ebe71.png)
+![Captura de tela de 2023-02-23 18-18-53](https://user-images.githubusercontent.com/73291742/221032769-169557f5-868f-41fe-9220-92c8ec8362dc.png)
+
 
 ### * 🦾 Código Escrito por Máquina e Supervisionado por Humano 💪
