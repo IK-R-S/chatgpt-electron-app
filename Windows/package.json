@@ -1,0 +1,37 @@
+{
+  "name": "ChatGPT",
+  "version": "1.0.0",
+  "description": "ChatGPT app for windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IK-R-S/chatgpt-electron-app.git"
+  },
+  "keywords": [
+    "chatgpt"
+  ],
+  "author": "IK-R-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IK-R-S/chatgpt-electron-app/issues"
+  },
+  "homepage": "https://github.com/IK-R-S/chatgpt-electron-app#readme",
+  "devDependencies": {
+    "electron": "^25.1.0",
+    "electron-build": "^0.0.3",
+    "electron-builder": "^24.4.0"
+  },
+  "dependencies": {
+    "electron-context-menu": "^3.6.1"
+  },
+  "build": {
+    "win": {
+      "icon": "icons/icon.ico"
+    }
+  }
+}
