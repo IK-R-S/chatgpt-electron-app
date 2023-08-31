@@ -19,7 +19,8 @@ OBS: na versão atual do repositório não há implementação do pacote transla
 
 ## Criando executável nativo
 1. `Editar package.json para seu sistema operacional`
-2. `npm run build`
+2. `npm install electron-builder`
+3. `npm run build`
 
 ---
 ![image](https://user-images.githubusercontent.com/73291742/221032696-72b824d8-ad51-4afc-9329-b6e8b25ebe71.png)
